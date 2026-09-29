@@ -6,7 +6,7 @@
 -- Generates CP2077_Achievement_Logic.txt
 --
 -- Dumps every achievement record and every useful field
--- CET can currently expose for later use by Cynosure.
+-- CET can currently expose for achievement and progression research.
 
 local OUTPUT_FILE = "CP2077_Achievement_Logic.txt"
 
@@ -334,12 +334,12 @@ local function runProbe()
     end
 
     --------------------------------------------------------
-    -- Cynosure-important records
+    -- Progression research records
     --------------------------------------------------------
 
     writeLine(file, "")
     writeLine(file, "############################################################")
-    writeLine(file, "CYNOSURE TARGETS")
+    writeLine(file, "PROGRESSION RESEARCH TARGETS")
     writeLine(file, "############################################################")
     writeLine(file, "")
 
