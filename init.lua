@@ -3,12 +3,12 @@
 -- CET / LUA ONLY
 -- READ ONLY
 --
--- Generates AchievementProbe.txt
+-- Generates CP2077_Achievement_Logic.txt
 --
 -- Dumps every achievement record and every useful field
 -- CET can currently expose for later use by Cynosure.
 
-local OUTPUT_FILE = "AchievementProbe.txt"
+local OUTPUT_FILE = "CP2077_Achievement_Logic.txt"
 
 ------------------------------------------------------------
 -- Helpers
