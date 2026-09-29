@@ -60,7 +60,7 @@ Launch Cyberpunk 2077 and allow Cyber Engine Tweaks to initialize.
 The utility automatically reads the game's achievement records and generates:
 
 ```text
-AchievementProbe.txt
+CP2077_Achievement_Logic.txt
 ```
 
 in the mod folder.
